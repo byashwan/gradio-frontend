@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gradio==3.47.1
+tinydb
+beautifulsoup4
+langchain-community
+langchain-core
+ldap3

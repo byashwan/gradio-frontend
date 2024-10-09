@@ -1,0 +1,10 @@
+---
+applications:
+- name: intelcalendar
+  memory: 1G
+  disk_quota: 1G
+  random-route: false
+  instances: 1
+  stack: cflinuxfs3
+  buildpacks:
+    - python_buildpack
